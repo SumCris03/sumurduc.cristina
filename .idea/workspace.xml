@@ -4,21 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7eed257-2dd9-43a4-93d7-ea755576f6af" name="Changes" comment="last commit 1">
-      <change afterPath="$PROJECT_DIR$/src/Abstraction/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstraction/FormaGeometrica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstraction/Patrat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstraction/Triunghi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Encapsulation/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Encapsulation/ContBancar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceMostenirea/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceMostenirea/Vehicul.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polimorphism/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polimorphism/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polimorphism/Ciine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polimorphism/Pisica.java" afterDir="false" />
+    <list default="true" id="b7eed257-2dd9-43a4-93d7-ea755576f6af" name="Changes" comment="Topic2-Sarcina nr 7">
+      <change afterPath="$PROJECT_DIR$/src/topic2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topic2/Persona.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,14 +36,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "inlay.hints"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Abstraction.Application">
+}</component>
+  <component name="RunManager" selected="Application.topic2.Main">
     <configuration name="Abstraction.Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Abstraction.Application" />
       <module name="test automation course" />
@@ -101,8 +90,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="topic2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="topic2.Main" />
+      <module name="test automation course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="topic2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.topic2.Main" />
         <item itemvalue="Application.Abstraction.Application" />
         <item itemvalue="Application.InheritanceMostenirea.Application" />
         <item itemvalue="Application.Application" />
@@ -154,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676917608902</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="principiile OOP">
+      <created>1677107588064</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677107588064</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,6 +183,8 @@
     <MESSAGE value="First Project commit_11" />
     <MESSAGE value="last commit" />
     <MESSAGE value="last commit 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="last commit 1" />
+    <MESSAGE value="principiile OOP" />
+    <MESSAGE value="Topic2-Sarcina nr 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Topic2-Sarcina nr 7" />
   </component>
 </project>
